@@ -69,10 +69,10 @@
 | **🏅 Level** | **Achievement** | **Recognition** |
 |:---:|:---|:---:|
 | **🇻🇳 National** | National Youth and Children's Creativity Contest | **🥈 Second Prize** |
-| **🏙️ Provincial** | Youth Innovation Contest | **🥇 First Prize** |
-| **🏙️ Provincial** | High School Informatics Competition | **🥈 Second Prize** |
-| **🏙️ Provincial** | Youth Informatics Contest | **🎖️ Consolation Prize** |
-
+| **🏙️ Provincial** | Provincial Youth and Children's Creativity Contest | **🥇 First Prize** |
+| **🏙️ Provincial** | Provincial Science and Technology Competition | **🥈 Second Prize** |
+| **🏙️ Provincial** | Provincial Informatics Student Excellence Competition | **🥈 Second Prize** |
+| **🏙️ Provincial** | Provincial Young Informatics Competition | **🎖️ Consolation Prize** |
 </div>
 
 ---
