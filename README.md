@@ -48,7 +48,7 @@
 
 ### **🏛️ Industrial University of Ho Chi Minh City (IUH)**
 **Bachelor of Engineering – Software Engineering**  
-**📅 Sep 2021 – Jul 2025** | **📊 GPA: 3.33/4.00**
+**📅 Sep 2021 – Jul 2025** | **📊 GPA: 3.31/4.00**
 
 </div>
 
@@ -65,13 +65,14 @@
 
 <div align="center">
 
-| **🏅 Level** | **Achievement** | **Recognition** |
-|:---:|:---|:---:|
-| **🇻🇳 National** | National Youth and Children's Creativity Contest | **🥈 Second Prize** |
-| **🏙️ Provincial** | Provincial Youth and Children's Creativity Contest | **🥇 First Prize** |
-| **🏙️ Provincial** | Provincial Science and Technology Competition | **🥈 Second Prize** |
-| **🏙️ Provincial** | Provincial Informatics Student Excellence Competition | **🥈 Second Prize** |
-| **🏙️ Provincial** | Provincial Young Informatics Competition | **🎖️ Consolation Prize** |
+| **🏅 Level** | **Achievement** | **Recognition** |**Year**|
+|:---:|:---|:---:|:---:|
+| **🇻🇳 National** | Youth and Children's Creativity Contest | **🥈 Second Prize** |**2019–2020**	
+| **🏙️ Provincial** | Youth and Children's Creativity Contest | **🥈 First Prize** |**2019–2020**
+| **🏙️ Provincial** | High School Informatics Contest | **🥈 Second Prize** |**2019**	
+| **🏙️ Provincial** | Vietnam Science and Engineering Fair | **🥈 Second Prize** |**2019–2020**	
+| **🏙️ Provincial** | Youth Informatics Contest | **🎖️ Consolation Prize** |**2019–2020**	
+| **🏙️ University** | Non-Major Informatics Olympiad | **🎖️ Top 7** |**2022**	
 </div>
 
 ---
